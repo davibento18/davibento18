@@ -8,7 +8,7 @@
 <br>
 
 - 🌱 TI
-- ⚡the fire fades, and the lords are without their thrones
+- ⚡"the fire fades, and the lords are without their thrones"
 
 
 <div align="center">
