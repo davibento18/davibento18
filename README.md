@@ -8,8 +8,8 @@
 <br>
 
 - 🌱 TI
-- ⚡
--->
+- ⚡the fire fades, and the lords are without their thrones
+
 
 <div align="center">
   <a href="https://github.com/davibento18">
