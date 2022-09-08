@@ -2,7 +2,7 @@
 <br>
 
 <div>
-  <img width="800px" src="https://github.com/davibento18/davibento18/blob/1460505525_yhorm.gif">
+  <img width="800px" src="https://github.com/davibento18/davibento18/blob/main/1460505525_yhorm.gif">
 </div>
 
 <br>
