@@ -2,7 +2,7 @@
 <br>
 
 <div>
-  <img width="400px" src="https://github.com/davibento18/davibento18/blob/main/dark%20souls.gif">
+  <img width="800px" src="https://github.com/davibento18/davibento18/blob/main/dark%20souls.gif">
 </div>
 
 <br>
